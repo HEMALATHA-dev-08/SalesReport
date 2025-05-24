@@ -1,0 +1,12 @@
+DBServer = "localhost"
+DBPort = 3306
+DBUser = "root"
+DBPassword = "Best@123"
+DBDatabase = "SalesDB"
+DBName = "mysql"
+DBType = ""
+
+
+SetMaxOpenConnsdb = "5"
+SetMaxIdleConnsdb = "5"
+SetConnMaxIdleTimedb = "10"

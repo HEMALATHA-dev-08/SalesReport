@@ -1,0 +1,6 @@
+hour = 21
+minute = 19
+
+AutoRun = "Y"
+
+FilePath = "SalesReport.csv"
